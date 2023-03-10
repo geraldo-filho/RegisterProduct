@@ -1,0 +1,1 @@
+Programa criado para cadastro de produtos e sua manipulação, Tendo como principal objetivo: Verificar a quantidade em estoque, como também ver o preço e aumentou / diminuir o estoque do produto.
